@@ -1,4 +1,4 @@
-# Ateş Bootcamp
+# AtesCamp
 swift is my passion :) 
 
 ## Plan
