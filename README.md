@@ -28,7 +28,7 @@ swift is my passion :)
 | Name | File | Subjects |
 | ---- | ---- | -------- |
 | Day16-18 | <a href="https://github.com/japsadev/SitcomButton"> Project </a>| FileManager, UITableViewController, CocoaTouch Classes, UIImage, NavigationController |
-| Completed | Done🎉 | Thank you <a href = "https://github.com/devmehmetates"> Ateş </a> 🧡|
+| Completed | Done🎉 | Thank you <a href = "https://github.com/devmehmetates"> Ateş </a> 🔥|
 
 ## Side Project Map
 
