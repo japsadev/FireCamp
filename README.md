@@ -10,13 +10,13 @@ swift is my passion :)
 | 22/05/2024 | Day 3 |Operators and Conditions |  Done ✅ |
 | 22/05/2024 | Day 4 |Loops | Done ✅ |
 | 22/05/2024 | Day 5 |Functions |Done ✅ |
-| 25/05/2024 | Day 6 |Closures-1 | |
-| 26/05/2024 | Day 7 |Closures-2|   |
-| 27/05/2024 | Day 8 |Structs-1 and Properties | |
-| 28/05/2024 | Day 9 |Structs-2 | |
-| 29/05/2024 | Day 10 |Classes | |
-| 30/05/2024 | Day 11 |Protocols and Extensions | |
-| 31/05/2024 | Day 12 |Optionals | |
+| 26/05/2024 | Day 6 |Closures-1 | Done ✅|
+| 26/05/2024 | Day 7 |Closures-2| Done ✅  |
+| 26/05/2024 | Day 8 |Structs-1 and Properties | Done ✅|
+| 26/05/2024 | Day 9 |Structs-2 | Done ✅|
+| 26/05/2024 | Day 10 |Classes | Done ✅|
+| 26/05/2024 | Day 11 |Protocols and Extensions | Done ✅|
+| 26/05/2024 | Day 12 |Optionals |Done ✅ |
 | 01/06/2024 | Day 13 |Summary-1| |
 | 02/06/2024 | Day 14 |Summary-2 |   |
 | 03/06/2024 | Day 15 |Summary-3 | |
