@@ -24,7 +24,7 @@ swift is my passion :)
 ## Swift Fundamentals
 | Topics                             | State         | File          | 
 |------------------------------------| ------------- | ------------- | 
-|  1 - Swift Basics                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/SwiftBasics.md"> File </a> |
+|  1 - Swift Basics                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/c0ed7b23dc46d7556c2ea2b24a36be94c8906f8d/SwiftBasics.md"> File </a> |
 
 ## Project Map
 ℹ️ Projects with Project and Gallery link are completely made by me.
