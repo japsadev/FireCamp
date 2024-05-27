@@ -21,9 +21,10 @@ swift is my passion :)
 | 02/06/2024 | Day 14 |Summary-2 |   |
 | 03/06/2024 | Day 15 |Summary-3 | |
 
-| Title                              | State         | 
-|------------------------------------| ------------- | 
-|  <a href = "https://github.com/japsadev/FireCamp/SwiftBasics.md"> 1 - Swift Basics </a> | Done ✅  |
+## Swift Fundamentals
+| Topics                             | State         | File          | 
+|------------------------------------| ------------- | ------------- | 
+|  1 - Swift Basics                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/SwiftBasics.md"> File </a> |
 
 ## Project Map
 ℹ️ Projects with Project and Gallery link are completely made by me.
