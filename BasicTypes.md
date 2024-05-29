@@ -14,6 +14,13 @@ let myFirstItem: String = "Hello, world!"
 let myTitle = myFirstItem
 ```
 
+### String Interpolation
+```swift
+// How to use variables in string. So String interpolation.
+var myScore = 99
+var scoreStr = "My score is : \(myScore)" // My score is : 99
+```
+
 ### Bool
 
 ```swift
