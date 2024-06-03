@@ -29,7 +29,7 @@ swift is my passion :)
 |  3 - Constants, Variables and If Statements  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/c7d56b8eaf350d42b9d18d8f75c04aea0bb0bb55/ConstantVariableAndIfStatements.md"> File </a> |
 |  4 - Operators and Conditions                | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/6fc121c48653432d464138967e61bfd7616d5c30/OperatorsAndConditions.md"> File </a> |
 |  5 - Functions                               | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/2441451a5d491401cd353989e98403dd3654de5c/Functions.md"> File </a> |
-
+|  6 - Optionals                               | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/28f5f21b438fffb7a5e60283895ed75e3813e953/Optionals.md"> File </a> |
 
 
 ## Project Map
