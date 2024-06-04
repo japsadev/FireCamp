@@ -30,7 +30,7 @@ swift is my passion :)
 |  4 - Operators and Conditions                | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/6fc121c48653432d464138967e61bfd7616d5c30/OperatorsAndConditions.md"> File </a> |
 |  5 - Functions                               | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/2441451a5d491401cd353989e98403dd3654de5c/Functions.md"> File </a> |
 |  6 - Optionals                               | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/28f5f21b438fffb7a5e60283895ed75e3813e953/Optionals.md"> File </a> |
-
+|  7 - Tuples                                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/9432d61e1f7dedf3146ac11848198cd42bed567a/Tuples.md"> File </a> |
 
 ## Project Map
 ℹ️ Projects with Project and Gallery link are completely made by me.
