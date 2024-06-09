@@ -33,7 +33,7 @@ swift is my passion :)
 |  7 - Tuples                                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/9432d61e1f7dedf3146ac11848198cd42bed567a/Tuples.md"> File </a> |
 |  8 - Object Oriented Programming             | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/c43087fa9b7fd2c78a8ac4bf6b6ea51eb87c46ba/ObjectOrientedProgramming.md"> File </a> |
 |  9 - Structs                                 | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/628b7f64ef592b74ad03e74762228e630e054a44/Structs.md"> File </a> |
-|  10 - Enums                                  | Done ✅       | <a href = ""> File </a> |
+|  10 - Enums                                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/fd0bd9f151d5ce7adf588c2b7c2d894bcaa17318/Enums.md"> File </a> |
 |  10 - Classes                                | Done ✅       | <a href = ""> File </a> |
 
 ## Learn the Essentials of Swift 👇
