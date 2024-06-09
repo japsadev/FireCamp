@@ -34,6 +34,7 @@ swift is my passion :)
 |  8 - Object Oriented Programming             | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/c43087fa9b7fd2c78a8ac4bf6b6ea51eb87c46ba/ObjectOrientedProgramming.md"> File </a> |
 |  9 - Structs                                 | Done ✅       | <a href = ""> File </a> |
 |  10 - Enums                                  | Done ✅       | <a href = ""> File </a> |
+|  10 - Classes                                | Done ✅       | <a href = ""> File </a> |
 
 ## Learn the Essentials of Swift 👇
 | Swift Full Review                            | Done ✅       | <a href = ""> File </a>  | 
