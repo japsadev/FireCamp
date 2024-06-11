@@ -35,6 +35,7 @@ swift is my passion :)
 |  9 - Structs                                 | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/628b7f64ef592b74ad03e74762228e630e054a44/Structs.md"> File </a> |
 |  10 - Enums                                  | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/fd0bd9f151d5ce7adf588c2b7c2d894bcaa17318/Enums.md"> File </a> |
 |  11 - Classes                                | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/d0fb76d61f23ec72c4b855813f32ad6912638a09/Classes.md"> File </a> |
+|  12 - Access Control                         | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/fa88a8cc9b7cac2be456ae6926cdb995eb5e1a84/AccessControl.md"> File </a> |
 
 ## Learn the Essentials of Swift 👇
 | Swift Full Review                            | Done ✅       | <a href = ""> File </a>  | 
