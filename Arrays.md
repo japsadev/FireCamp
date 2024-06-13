@@ -79,6 +79,29 @@ func doSomething(value: (title1: String, title2: String)) {
 doSomething(value: (myTitle, myTitle2))
 ```
 
+## **Dictionaries**
+
+Dictionaries are collections of key-value pairs. Each value is associated with a unique key.
+
+```swift
+var myFirstDictionary: [String: Bool] = [
+    "Apple": true,
+    "Orange": false
+]
+
+let item = myFirstDictionary["Banana"]  // Accessing a value using a key
+
+var anotherDictionary: [String: String] = [
+    "abc": "Apple",
+    "def": "Banana",
+]
+
+let item2 = anotherDictionary["abc"]
+anotherDictionary["xyz"] = "Mango"  // Adding a new key-value pair
+anotherDictionary.removeValue(forKey: "def")  // Removing a key-value pair
+print(anotherDictionary)  // Prints ["abc": "Apple", "xyz": "Mango"]
+```
+
 ## **Custom Data Models**
 
 Custom data models allow you to create complex data structures that group related values together. In Swift, you can use structures (struct) or classes (class) to define custom data models.
