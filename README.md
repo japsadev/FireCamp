@@ -37,7 +37,7 @@ swift is my passion :)
 |  11 - Classes                                | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/d0fb76d61f23ec72c4b855813f32ad6912638a09/Classes.md"> File </a> |
 |  12 - Access Control                         | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/fa88a8cc9b7cac2be456ae6926cdb995eb5e1a84/AccessControl.md"> File </a> |
 |  13 - Arrays, Sets, and Custom Data Models   | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/036392ae68f7f964f6046463bbbc1002436c89ab/Arrays.md"> File </a> |
-
+|  14 - For Loops                              | Done ✅       | <a href = "https://github.com/japsadev/FireCamp/blob/693484cd9bcbcdecc97910ba2ce69b6f6d397b37/ForLoops.md"> File </a> |
 
 ## Learn the Essentials of Swift 👇
 | Swift Full Review                            | Done ✅       | <a href = ""> File </a>  | 
