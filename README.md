@@ -17,7 +17,7 @@ swift is my passion :))
 | 26/05/2024 | Day 10 |Classes | Done ✅|
 | 26/05/2024 | Day 11 |Protocols and Extensions | Done ✅|
 | 26/05/2024 | Day 12 |Optionals |Done ✅ |
-| 01/06/2024 | Day 13 |Summary-1| |
+| 01/06/2024 | Day 13 |Summary-1| Done ✅|
 | 02/06/2024 | Day 14 |Summary-2 |   |
 | 03/06/2024 | Day 15 |Summary-3 | |
 
