@@ -1,5 +1,5 @@
 # FireCamp
-swift is my passion :)
+swift is my passion :))
 
 ## Plan
 
